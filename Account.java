@@ -17,7 +17,7 @@ public class Account implements Serializable{
 	private AccountType type;
 	private String name;
 	private String password;
- //hey	private Double balance;
+	private Double balance;
 	private Long portfolioId;
 	
 	public Account() {
